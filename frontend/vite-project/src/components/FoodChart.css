@@ -1,0 +1,39 @@
+.food-chart {
+    padding: 20px;
+    background-color: #fff;
+    border-radius: 8px;
+    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+    margin-bottom: 20px;
+  }
+  
+  .food-chart input {
+    padding: 8px;
+    margin-right: 10px;
+    border: 1px solid #ccc;
+    border-radius: 4px;
+  }
+  
+  .food-chart button {
+    padding: 8px 12px;
+    background-color: #007bff;
+    color: #fff;
+    border: none;
+    border-radius: 4px;
+    cursor: pointer;
+  }
+  
+  .food-chart button:hover {
+    background-color: #0056b3;
+  }
+  
+  .food-chart ul {
+    list-style-type: none;
+    padding: 0;
+  }
+  
+  .food-chart li {
+    padding: 8px;
+    background-color: #f8f9fa;
+    margin-top: 5px;
+    border-radius: 4px;
+  }

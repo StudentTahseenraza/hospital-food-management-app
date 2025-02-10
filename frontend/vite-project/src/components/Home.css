@@ -1,0 +1,37 @@
+.home {
+    text-align: center;
+    padding: 20px;
+    max-width: 800px;
+    margin: 0 auto;
+  }
+  
+  .home h1 {
+    color: #1d2227;
+    margin-bottom: 20px;
+  }
+  
+  .home .description {
+    background-color:rgba(130, 122, 122, 0.511);
+    padding: 20px;
+    border-radius: 8px;
+    box-shadow: inside 0 8px 10px rgba(18, 9, 9, 0.1);
+    text-align: left;
+  }
+  
+  .home .description p {
+    font-size: 1.1em;
+    line-height: 1.6;
+    color: #000000;
+  }
+  
+  .home .description ul {
+    list-style-type: disc;
+    padding-left: 20px;
+    margin-top: 10px;
+  }
+  
+  .home .description ul li {
+    margin-bottom: 10px;
+    font-size: 1em;
+    color: #0a0a0a;
+  }
